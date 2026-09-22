@@ -16,4 +16,3 @@
 ### Redes Sociales
 
 *   **Servidor de Discord:** [Invitación a Discord](https://discord.cosnet.gg)
-*   **Bluesky:** `cosnet.bsky.social`
